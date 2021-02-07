@@ -19,3 +19,7 @@ The lessons will be between 9:00-13:00 and they will be in the following days:
 3. create-react-app
 4. components
 5. forms
+
+## Course lectures are recorded:
+
+- 
