@@ -12,5 +12,12 @@ We will learn the basic problem react is aiming to solve
 - VirtualDOM
 - JSX
 
+## to run
+
+```
+> npx http-server
+```
+
 ## This lecture is also available in my youtube channel
 
+https://www.youtube.com/watch?v=bVPMCmTN__Q&t=1s
