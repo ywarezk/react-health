@@ -15,6 +15,7 @@ setInterval(() => {
 
 import { useState, useEffect } from 'react'; 
 import PropTypes from 'prop-types';
+import {} from '';
 
 export default function Counter(
 	{
