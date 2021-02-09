@@ -23,3 +23,6 @@ The lessons will be between 9:00-13:00 and they will be in the following days:
 ## Course lectures are recorded:
 
 1. https://johnbryce.zoom.us/rec/share/Ij5m_q8p-2tIW-MCtfnKkPywBqjhYOBnDJoMMUZ37DePbpc-p_YtGRGFgwP6Z63v.ZXGPEw6x3QlgqfkD
+
+2. https://johnbryce.zoom.us/rec/share/7mky0rehtNzZENp1uJryFRTPsY_CUS1N1Wz6vFrP9EmvZ-g3ovzie2j3KNp2aiGH.Fc6CsLGHbcUpcokF
+
