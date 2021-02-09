@@ -1,5 +1,9 @@
 # React Components
 
+## Even more material about react component is available in my youtube channel
+
+https://www.youtube.com/watch?v=jpmyfv_w-fw
+
 ## EX.
 
 ## EX Todo list
