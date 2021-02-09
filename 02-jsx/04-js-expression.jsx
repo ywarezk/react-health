@@ -35,6 +35,8 @@ function myStyleFunction() {
 	}
 }
 
+
+
 (
 	<h1 style={ myStyleFunction() } >hello world</h1>	
 )
