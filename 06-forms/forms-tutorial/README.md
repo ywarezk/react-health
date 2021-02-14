@@ -1,6 +1,10 @@
 # Forms
 
+## Custom form controls with formik
 
+https://codesandbox.io/s/formik-custom-field-dp87j?file=/src/ContactForm.js:642-671
+
+https://github.com/formium/formik/blob/master/examples/CustomInputs.js
 
 ## EX
 

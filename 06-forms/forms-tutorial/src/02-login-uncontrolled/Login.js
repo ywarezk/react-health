@@ -17,11 +17,14 @@ export default function Login() {
 	// this.saveValue = 42;
 	const emailRef = useRef(null);
 	const passwordRef = useRef(null);
+	const saveValue = useRef(null);
 	
 	const handleSubmit = (event) => {
 		event.preventDefault();
 		console.log(`the email is: ${emailRef.current.value}`);
 		console.log(`the password is: ${passwordRef.current.value}`);
+		
+		saveValue.current = 42;
 	}
 	
 	return (
