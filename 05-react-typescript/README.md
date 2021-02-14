@@ -1,5 +1,14 @@
 # React and typescript
 
+## Start a new project with typescript
+
+```
+> npx create-react-app ts-tutorial --template=typescript
+```
+
+
+
+
 ## Lesson Plan
 
 - start a react typescript project with `create-react-app`
