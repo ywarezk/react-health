@@ -26,3 +26,4 @@ The lessons will be between 9:00-13:00 and they will be in the following days:
 
 2. https://johnbryce.zoom.us/rec/share/7mky0rehtNzZENp1uJryFRTPsY_CUS1N1Wz6vFrP9EmvZ-g3ovzie2j3KNp2aiGH.Fc6CsLGHbcUpcokF
 
+3. https://johnbryce.zoom.us/rec/share/lt4Idtmf-nsxm9iN1Fc_4NPxkiSyG8q0aaRv6axAT4FeD71FSD9ugAeuuz3MZmbn.iuczcDD-1wDC3hsZ
