@@ -20,6 +20,14 @@ The lessons will be between 9:00-13:00 and they will be in the following days:
 4. components
 5. forms
 
+## Full react course
+
+- https://www.youtube.com/watch?v=bVPMCmTN__Q&list=PLnHa2cF4cNDtfkYKO6v069GUPYrJtijwc
+
+## Youtube channel 
+
+- https://www.youtube.com/user/ywarezk/search?query=react
+
 ## Course lectures are recorded:
 
 1. https://johnbryce.zoom.us/rec/share/Ij5m_q8p-2tIW-MCtfnKkPywBqjhYOBnDJoMMUZ37DePbpc-p_YtGRGFgwP6Z63v.ZXGPEw6x3QlgqfkD
