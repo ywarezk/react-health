@@ -8,7 +8,8 @@
  */
  
 import { useDispatch } from 'react-redux';
-import { deposit } from '../redux/actions';
+// import { deposit } from '../redux/actions';
+import { deposit } from './state/bank.slice';
 
 export default function Deposit() {
 	const dispatch = useDispatch();

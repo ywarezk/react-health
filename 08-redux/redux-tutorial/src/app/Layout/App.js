@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
-import DisplayAmount from './components/DisplayAmount';
-import Deposit from './components/Deposit';
+import {DisplayAmount, Deposit} from '../../bank';
+import TodoList from '../../todo/TodoList';
 
 function App() {
   return (
@@ -9,6 +8,8 @@ function App() {
       <DisplayAmount />
 	  
 	  <Deposit />
+	  
+	  <TodoList />
     </div>
   );
 }
